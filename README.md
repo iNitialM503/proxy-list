@@ -21,19 +21,19 @@
   Salin dan tempel salah satu kode dibawah ke terminal
   - **ALL** (18925)
     ```bash
-    curl https://raw.githubusercontent.com/iNitialM503/proxy-list/main/all.txt -o all.txt
+    curl https://raw.githubusercontent.com/iNitialM503/proxy-list/master/all.txt -o all.txt
     ```
   - **HTTP** (10124)
     ```bash
-    curl https://raw.githubusercontent.com/iNitialM503/proxy-list/main/http.txt -o http.txt
+    curl https://raw.githubusercontent.com/iNitialM503/proxy-list/master/http.txt -o http.txt
     ```
   - **SOCKS4** (5801)
     ```bash
-    curl https://raw.githubusercontent.com/iNitialM503/proxy-list/main/socks4.txt -o socks4.txt
+    curl https://raw.githubusercontent.com/iNitialM503/proxy-list/master/socks4.txt -o socks4.txt
     ```
   - **SOCKS5** (3000)
     ```bash
-    curl https://raw.githubusercontent.com/iNitialM503/proxy-list/main/socks5.txt -o socks5.txt
+    curl https://raw.githubusercontent.com/iNitialM503/proxy-list/master/socks5.txt -o socks5.txt
     ```
 
 # TODO
