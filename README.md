@@ -8,7 +8,7 @@
 
   [![Proxy Updater](https://github.com/iNitialM503/proxy-list/workflows/Proxy%20Updater/badge.svg)](https://github.com/iNitialM503/proxy-list/actions?query=workflow:"Proxy+Updater")
   ![GitHub repo size](https://img.shields.io/github/repo-size/iNitialM503/proxy-list)
-  [![GitHub commit activity](https://img.shields.io/github/commit-activity/m/iNitialM503/proxy-list?logo=commits)](https://github.com/iNitialM503/proxy-list/commits/main)
+  [![GitHub commit activity](https://img.shields.io/github/commit-activity/m/iNitialM503/proxy-list?logo=commits)](https://github.com/iNitialM503/proxy-list/commits/master)
 
 </div>
 

@@ -36,7 +36,7 @@ jobs:
 
           echo -e "  [![Proxy Updater](https://github.com/iNitialM503/proxy-list/workflows/Proxy%20Updater/badge.svg)](https://github.com/iNitialM503/proxy-list/actions?query=workflow:\"Proxy+Updater\")" >> README.md
           echo -e "  ![GitHub repo size](https://img.shields.io/github/repo-size/iNitialM503/proxy-list)" >> README.md
-          echo -e "  [![GitHub commit activity](https://img.shields.io/github/commit-activity/m/iNitialM503/proxy-list?logo=commits)](https://github.com/iNitialM503/proxy-list/commits/main)" >> README.md
+          echo -e "  [![GitHub commit activity](https://img.shields.io/github/commit-activity/m/iNitialM503/proxy-list?logo=commits)](https://github.com/iNitialM503/proxy-list/commits/master)" >> README.md
 
           echo -e "\n</div>\n" >> README.md
 
