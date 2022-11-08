@@ -12,10 +12,10 @@
 
 </div>
 
-  Ini adalah repository yang saya buat untuk mempermudah saya dan mungkin juga kalian dalam mencari sebuah proxy.
+  Test Action Ini adalah repository yang saya buat untuk mempermudah saya dan mungkin juga kalian dalam mencari sebuah proxy.
 
   - **jumlah proxy:** ±18925
-  - **terakhir diupdate:** Tue, 08 Nov 22 05:25:11 WIB
+  - **terakhir diupdate:** Tue, 08 Nov 22 07:20:58 WIB
 
 # Unduh
   Salin dan tempel salah satu kode dibawah ke terminal
