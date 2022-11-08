@@ -17,7 +17,7 @@
   - **total proxy:** ±19398
   - **last updated:** Tue, 08 Nov 22 07:41:02 WIB
 
-# Donwload
+# Download
   Copy and paste one of the codes below into the terminal
   - **ALL** (19398)
     ```bash
