@@ -20,7 +20,7 @@ jobs:
           node-version: ${{ matrix.node-version }}
       - uses: actions/checkout@v3
 
-      - run: rm *.txt -rfv
+      #- run: rm *.txt -rfv
       # - name: start proxy scraper
       #   run: |
       #     cd .github/workflows
@@ -66,7 +66,7 @@ jobs:
       - name: start commit
         run: |
           git config --local user.name ${{ secrets.name }}
-          # git config --local user.email ${{ secrets.email }}
+          git config --local user.email ${{ secrets.email }}
           git status
           git add *.txt README.md
           git commit -m "update: $(cat all.txt | wc -l) proxies"
