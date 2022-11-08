@@ -14,24 +14,24 @@
 
   Test Action Ini adalah repository yang saya buat untuk mempermudah saya dan mungkin juga kalian dalam mencari sebuah proxy.
 
-  - **jumlah proxy:** ±18925
-  - **terakhir diupdate:** Tue, 08 Nov 22 07:20:58 WIB
+  - **jumlah proxy:** ±19707
+  - **terakhir diupdate:** Tue, 08 Nov 22 07:23:51 WIB
 
 # Unduh
   Salin dan tempel salah satu kode dibawah ke terminal
-  - **ALL** (18925)
+  - **ALL** (19707)
     ```bash
     curl https://raw.githubusercontent.com/iNitialM503/proxy-list/master/all.txt -o all.txt
     ```
-  - **HTTP** (10124)
+  - **HTTP** (10552)
     ```bash
     curl https://raw.githubusercontent.com/iNitialM503/proxy-list/master/http.txt -o http.txt
     ```
-  - **SOCKS4** (5801)
+  - **SOCKS4** (5911)
     ```bash
     curl https://raw.githubusercontent.com/iNitialM503/proxy-list/master/socks4.txt -o socks4.txt
     ```
-  - **SOCKS5** (3000)
+  - **SOCKS5** (3244)
     ```bash
     curl https://raw.githubusercontent.com/iNitialM503/proxy-list/master/socks5.txt -o socks5.txt
     ```
