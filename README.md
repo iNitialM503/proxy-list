@@ -12,34 +12,34 @@
 
 </div>
 
-  Test Action Ini adalah repository yang saya buat untuk mempermudah saya dan mungkin juga kalian dalam mencari sebuah proxy.
+  Public repository for fetch proxy.
 
-  - **jumlah proxy:** ±19707
-  - **terakhir diupdate:** Tue, 08 Nov 22 07:23:51 WIB
+  - **total proxy:** ±19398
+  - **last updated:** Tue, 08 Nov 22 07:41:02 WIB
 
-# Unduh
-  Salin dan tempel salah satu kode dibawah ke terminal
-  - **ALL** (19707)
+# Donwload
+  Copy and paste one of the codes below into the terminal
+  - **ALL** (19398)
     ```bash
     curl https://raw.githubusercontent.com/iNitialM503/proxy-list/master/all.txt -o all.txt
     ```
-  - **HTTP** (10552)
+  - **HTTP** (10440)
     ```bash
     curl https://raw.githubusercontent.com/iNitialM503/proxy-list/master/http.txt -o http.txt
     ```
-  - **SOCKS4** (5911)
+  - **SOCKS4** (5772)
     ```bash
     curl https://raw.githubusercontent.com/iNitialM503/proxy-list/master/socks4.txt -o socks4.txt
     ```
-  - **SOCKS5** (3244)
+  - **SOCKS5** (3186)
     ```bash
     curl https://raw.githubusercontent.com/iNitialM503/proxy-list/master/socks5.txt -o socks5.txt
     ```
 
 # TODO
-  - [x] hapus folder *csv/*
-  - [x] sortir proxy menjadi 3 bagian, HTTP/SOCKS4/SOCKS5
-  - [ ] cek apakah proxy berfungsi atau tidak
+  - [x] delete folder *csv/*
+  - [x] sort proxy into 3 parts, HTTP/SOCKS4/SOCKS5
+  - [ ] check whether the proxy is working or not
 
-# Catatan
-> Jangan lupa kasih ⭐ terus *fork* sama *follow* juga kalau perlu
+# Note
+> Don't forget to give ⭐ and keep *fork* and *follow* too if necessary
