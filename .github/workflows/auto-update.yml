@@ -44,7 +44,7 @@ jobs:
           echo -e "  - **total proxy:** ±$(cat all.txt | wc -l)" >> README.md
           echo -e "  - **last updated:** $(TZ=Asia/Jakarta date +'%a, %d %b %y %T %Z')\n" >> README.md
 
-          echo -e "# Donwload" >> README.md
+          echo -e "# Download" >> README.md
           echo -e "  Copy and paste one of the codes below into the terminal" >> README.md
 
           for file in *.txt;
