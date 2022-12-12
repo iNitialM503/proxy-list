@@ -14,24 +14,24 @@
 
   Public repository for fetch proxy.
 
-  - **total proxy:** ±22634
-  - **last updated:** Mon, 12 Dec 22 19:33:48 WIB
+  - **total proxy:** ±22030
+  - **last updated:** Mon, 12 Dec 22 20:27:45 WIB
 
 # Download
   Copy and paste one of the codes below into the terminal
-  - **ALL** (22634)
+  - **ALL** (22030)
     ```bash
     curl https://raw.githubusercontent.com/iNitialM503/proxy-list/master/all.txt -o all.txt
     ```
-  - **HTTP** (11900)
+  - **HTTP** (11623)
     ```bash
     curl https://raw.githubusercontent.com/iNitialM503/proxy-list/master/http.txt -o http.txt
     ```
-  - **SOCKS4** (7173)
+  - **SOCKS4** (6947)
     ```bash
     curl https://raw.githubusercontent.com/iNitialM503/proxy-list/master/socks4.txt -o socks4.txt
     ```
-  - **SOCKS5** (3561)
+  - **SOCKS5** (3460)
     ```bash
     curl https://raw.githubusercontent.com/iNitialM503/proxy-list/master/socks5.txt -o socks5.txt
     ```
